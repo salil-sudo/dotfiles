@@ -3,6 +3,7 @@
 <p align="middle">
 
   <img src=images/title.png height="45%" width="45%">
+  <img src=images/roadmap.png height="45%" width="45%">
 
 </p>
 
