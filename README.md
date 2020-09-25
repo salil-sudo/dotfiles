@@ -6,7 +6,6 @@
 
 </p>
 
-My suckless terminal, ranger and zathura configs are based on [Luke Smith's](https://github.com/LukeSmithxyz) config files. I have modified them a bit to my own taste.
 
 Some highlights of my configs (that I can recall):
 
@@ -16,3 +15,5 @@ Some highlights of my configs (that I can recall):
 - Zathura in night mode uses pywal. 
 - Rofi also uses pywal. So you better be ready with some nice wallpapers.
 - My i3 has mouse mode. The mouse pointer can be controlled by keyboard. I never use it but I found code snippet internet and thought of hoarding it.
+
+My suckless terminal, ranger, dunst and zathura configs are based on [Luke Smith's](https://github.com/LukeSmithxyz) config files. I have modified them a bit to my own taste.
