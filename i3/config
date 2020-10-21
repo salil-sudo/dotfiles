@@ -152,6 +152,9 @@ bindsym $mod+Shift+w exec brave-browser --new-window  /home/salil/.config/i3/wea
 #gnome control center
 bindsym $mod+Shift+g exec env XDG_CURRENT_DESKTOP=GNOME gnome-control-center
 
+#switch between displays
+bindsym $mod+Shift+s exec --no-startup-id /home/salil/.config/i3/display.sh
+
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
