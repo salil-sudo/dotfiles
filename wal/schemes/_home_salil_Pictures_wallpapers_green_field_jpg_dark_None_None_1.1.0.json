@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/green_field.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0601",
+        "foreground": "#d7d7d4",
+        "cursor": "#d7d7d4"
+    },
+    "colors": {
+        "color0": "#0a0601",
+        "color1": "#A88C19",
+        "color2": "#E4990E",
+        "color3": "#BC985D",
+        "color4": "#5C7794",
+        "color5": "#728BA3",
+        "color6": "#9AA4AC",
+        "color7": "#d7d7d4",
+        "color8": "#969694",
+        "color9": "#A88C19",
+        "color10": "#E4990E",
+        "color11": "#BC985D",
+        "color12": "#5C7794",
+        "color13": "#728BA3",
+        "color14": "#9AA4AC",
+        "color15": "#d7d7d4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/water_bridge.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100e09",
+        "foreground": "#e7e0df",
+        "cursor": "#e7e0df"
+    },
+    "colors": {
+        "color0": "#100e09",
+        "color1": "#946D5A",
+        "color2": "#78857C",
+        "color3": "#978D73",
+        "color4": "#A2A197",
+        "color5": "#CEB4A6",
+        "color6": "#D5C5B8",
+        "color7": "#e7e0df",
+        "color8": "#a19c9c",
+        "color9": "#946D5A",
+        "color10": "#78857C",
+        "color11": "#978D73",
+        "color12": "#A2A197",
+        "color13": "#CEB4A6",
+        "color14": "#D5C5B8",
+        "color15": "#e7e0df"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/landscape_27.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060101",
+        "foreground": "#adb3b7",
+        "cursor": "#adb3b7"
+    },
+    "colors": {
+        "color0": "#060101",
+        "color1": "#A5591A",
+        "color2": "#CF6510",
+        "color3": "#976C52",
+        "color4": "#E09F18",
+        "color5": "#F0DE19",
+        "color6": "#BAA850",
+        "color7": "#adb3b7",
+        "color8": "#797d80",
+        "color9": "#A5591A",
+        "color10": "#CF6510",
+        "color11": "#976C52",
+        "color12": "#E09F18",
+        "color13": "#F0DE19",
+        "color14": "#BAA850",
+        "color15": "#adb3b7"
+    }
+}

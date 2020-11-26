@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/snowy_street.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0202",
+        "foreground": "#efd6ab",
+        "cursor": "#efd6ab"
+    },
+    "colors": {
+        "color0": "#0A0202",
+        "color1": "#8F4A1C",
+        "color2": "#AF641A",
+        "color3": "#CD7822",
+        "color4": "#E28E2E",
+        "color5": "#EB922F",
+        "color6": "#F4AA4D",
+        "color7": "#efd6ab",
+        "color8": "#a79577",
+        "color9": "#8F4A1C",
+        "color10": "#AF641A",
+        "color11": "#CD7822",
+        "color12": "#E28E2E",
+        "color13": "#EB922F",
+        "color14": "#F4AA4D",
+        "color15": "#efd6ab"
+    }
+}

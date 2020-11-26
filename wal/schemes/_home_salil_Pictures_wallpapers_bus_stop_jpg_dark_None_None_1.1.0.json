@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/bus_stop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030C0A",
+        "foreground": "#d1c5bf",
+        "cursor": "#d1c5bf"
+    },
+    "colors": {
+        "color0": "#030C0A",
+        "color1": "#8F6729",
+        "color2": "#8E7151",
+        "color3": "#977962",
+        "color4": "#B48E3F",
+        "color5": "#A48A6E",
+        "color6": "#61908A",
+        "color7": "#d1c5bf",
+        "color8": "#928985",
+        "color9": "#8F6729",
+        "color10": "#8E7151",
+        "color11": "#977962",
+        "color12": "#B48E3F",
+        "color13": "#A48A6E",
+        "color14": "#61908A",
+        "color15": "#d1c5bf"
+    }
+}

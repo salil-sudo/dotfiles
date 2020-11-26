@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/lake_chair.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130f0c",
+        "foreground": "#cdd7c7",
+        "cursor": "#cdd7c7"
+    },
+    "colors": {
+        "color0": "#130f0c",
+        "color1": "#9A8E71",
+        "color2": "#AD936A",
+        "color3": "#D4A160",
+        "color4": "#EED06C",
+        "color5": "#627B80",
+        "color6": "#71898B",
+        "color7": "#cdd7c7",
+        "color8": "#8f968b",
+        "color9": "#9A8E71",
+        "color10": "#AD936A",
+        "color11": "#D4A160",
+        "color12": "#EED06C",
+        "color13": "#627B80",
+        "color14": "#71898B",
+        "color15": "#cdd7c7"
+    }
+}

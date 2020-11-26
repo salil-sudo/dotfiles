@@ -1,0 +1,21 @@
+set $wallpaper /home/salil/Pictures/wallpapers/japan_shop.jpg
+
+set $background #10100c
+set $foreground #c7c6c3
+
+set $color0 #10100c
+set $color1 #8B7462
+set $color2 #67912D
+set $color3 #6C915C
+set $color4 #949969
+set $color5 #A8C357
+set $color6 #6D8A91
+set $color7 #c7c6c3
+set $color8 #8b8a88
+set $color9 #8B7462
+set $color10 #67912D
+set $color11 #6C915C
+set $color12 #949969
+set $color13 #A8C357
+set $color14 #6D8A91
+set $color15 #c7c6c3

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/condiments.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0F09",
+        "foreground": "#a1adbb",
+        "cursor": "#a1adbb"
+    },
+    "colors": {
+        "color0": "#0D0F09",
+        "color1": "#6C643A",
+        "color2": "#34495E",
+        "color3": "#736B4B",
+        "color4": "#877454",
+        "color5": "#B8A04B",
+        "color6": "#958D71",
+        "color7": "#a1adbb",
+        "color8": "#707982",
+        "color9": "#6C643A",
+        "color10": "#34495E",
+        "color11": "#736B4B",
+        "color12": "#877454",
+        "color13": "#B8A04B",
+        "color14": "#958D71",
+        "color15": "#a1adbb"
+    }
+}

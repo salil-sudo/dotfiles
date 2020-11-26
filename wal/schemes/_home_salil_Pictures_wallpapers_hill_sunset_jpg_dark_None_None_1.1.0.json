@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/hill_sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1a07",
+        "foreground": "#be9cc0",
+        "cursor": "#be9cc0"
+    },
+    "colors": {
+        "color0": "#1e1a07",
+        "color1": "#8E7450",
+        "color2": "#D0AC2D",
+        "color3": "#B08C53",
+        "color4": "#9F8E6C",
+        "color5": "#D4A75F",
+        "color6": "#F6DC70",
+        "color7": "#be9cc0",
+        "color8": "#856d86",
+        "color9": "#8E7450",
+        "color10": "#D0AC2D",
+        "color11": "#B08C53",
+        "color12": "#9F8E6C",
+        "color13": "#D4A75F",
+        "color14": "#F6DC70",
+        "color15": "#be9cc0"
+    }
+}

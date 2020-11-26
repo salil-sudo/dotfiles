@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/amsterdam.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0e12",
+        "foreground": "#b3b9be",
+        "cursor": "#b3b9be"
+    },
+    "colors": {
+        "color0": "#0e0e12",
+        "color1": "#60525A",
+        "color2": "#9D4F31",
+        "color3": "#C55930",
+        "color4": "#9D5D5C",
+        "color5": "#DC6255",
+        "color6": "#DF9257",
+        "color7": "#b3b9be",
+        "color8": "#7d8185",
+        "color9": "#60525A",
+        "color10": "#9D4F31",
+        "color11": "#C55930",
+        "color12": "#9D5D5C",
+        "color13": "#DC6255",
+        "color14": "#DF9257",
+        "color15": "#b3b9be"
+    }
+}

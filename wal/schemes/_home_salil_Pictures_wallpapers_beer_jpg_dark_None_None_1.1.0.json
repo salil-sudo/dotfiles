@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/beer.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1d1e",
+        "foreground": "#dfe6c7",
+        "cursor": "#dfe6c7"
+    },
+    "colors": {
+        "color0": "#1c1d1e",
+        "color1": "#6E8E44",
+        "color2": "#8CB335",
+        "color3": "#A2BE3A",
+        "color4": "#B1CA59",
+        "color5": "#B5CC61",
+        "color6": "#7A7C81",
+        "color7": "#dfe6c7",
+        "color8": "#9ca18b",
+        "color9": "#6E8E44",
+        "color10": "#8CB335",
+        "color11": "#A2BE3A",
+        "color12": "#B1CA59",
+        "color13": "#B5CC61",
+        "color14": "#7A7C81",
+        "color15": "#dfe6c7"
+    }
+}

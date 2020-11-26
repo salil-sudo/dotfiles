@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/appalachian.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1a1c",
+        "foreground": "#ccccc6",
+        "cursor": "#ccccc6"
+    },
+    "colors": {
+        "color0": "#0d1a1c",
+        "color1": "#60975B",
+        "color2": "#96B23A",
+        "color3": "#9D995E",
+        "color4": "#386F8D",
+        "color5": "#5E989D",
+        "color6": "#4D93AD",
+        "color7": "#ccccc6",
+        "color8": "#8e8e8a",
+        "color9": "#60975B",
+        "color10": "#96B23A",
+        "color11": "#9D995E",
+        "color12": "#386F8D",
+        "color13": "#5E989D",
+        "color14": "#4D93AD",
+        "color15": "#ccccc6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/autumn_roof.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0a08",
+        "foreground": "#b5b5b8",
+        "cursor": "#b5b5b8"
+    },
+    "colors": {
+        "color0": "#0c0a08",
+        "color1": "#9C3718",
+        "color2": "#A65124",
+        "color3": "#D9612B",
+        "color4": "#B76D4F",
+        "color5": "#E59B49",
+        "color6": "#F59B54",
+        "color7": "#b5b5b8",
+        "color8": "#7e7e80",
+        "color9": "#9C3718",
+        "color10": "#A65124",
+        "color11": "#D9612B",
+        "color12": "#B76D4F",
+        "color13": "#E59B49",
+        "color14": "#F59B54",
+        "color15": "#b5b5b8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/red_leaves.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0a17",
+        "foreground": "#dca4a9",
+        "cursor": "#dca4a9"
+    },
+    "colors": {
+        "color0": "#0b0a17",
+        "color1": "#5E294F",
+        "color2": "#59475D",
+        "color3": "#9B082F",
+        "color4": "#E1122D",
+        "color5": "#9B2550",
+        "color6": "#E0254B",
+        "color7": "#dca4a9",
+        "color8": "#9a7276",
+        "color9": "#5E294F",
+        "color10": "#59475D",
+        "color11": "#9B082F",
+        "color12": "#E1122D",
+        "color13": "#9B2550",
+        "color14": "#E0254B",
+        "color15": "#dca4a9"
+    }
+}

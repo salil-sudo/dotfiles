@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/manarola.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05070B",
+        "foreground": "#dac8a5",
+        "cursor": "#dac8a5"
+    },
+    "colors": {
+        "color0": "#05070B",
+        "color1": "#26394C",
+        "color2": "#344B5D",
+        "color3": "#545E5F",
+        "color4": "#995C2D",
+        "color5": "#A16D48",
+        "color6": "#708675",
+        "color7": "#dac8a5",
+        "color8": "#988c73",
+        "color9": "#26394C",
+        "color10": "#344B5D",
+        "color11": "#545E5F",
+        "color12": "#995C2D",
+        "color13": "#A16D48",
+        "color14": "#708675",
+        "color15": "#dac8a5"
+    }
+}

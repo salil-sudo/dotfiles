@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/ams.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130f15",
+        "foreground": "#ebc3ca",
+        "cursor": "#ebc3ca"
+    },
+    "colors": {
+        "color0": "#130f15",
+        "color1": "#206195",
+        "color2": "#646F9B",
+        "color3": "#997298",
+        "color4": "#D27B9A",
+        "color5": "#6B86AE",
+        "color6": "#A38FAE",
+        "color7": "#ebc3ca",
+        "color8": "#a4888d",
+        "color9": "#206195",
+        "color10": "#646F9B",
+        "color11": "#997298",
+        "color12": "#D27B9A",
+        "color13": "#6B86AE",
+        "color14": "#A38FAE",
+        "color15": "#ebc3ca"
+    }
+}

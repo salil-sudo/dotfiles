@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/flowers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0C08",
+        "foreground": "#e0e1e7",
+        "cursor": "#e0e1e7"
+    },
+    "colors": {
+        "color0": "#0D0C08",
+        "color1": "#516CA8",
+        "color2": "#AB5C96",
+        "color3": "#C56FAB",
+        "color4": "#6E88AC",
+        "color5": "#628FCF",
+        "color6": "#AFAAC5",
+        "color7": "#e0e1e7",
+        "color8": "#9c9da1",
+        "color9": "#516CA8",
+        "color10": "#AB5C96",
+        "color11": "#C56FAB",
+        "color12": "#6E88AC",
+        "color13": "#628FCF",
+        "color14": "#AFAAC5",
+        "color15": "#e0e1e7"
+    }
+}

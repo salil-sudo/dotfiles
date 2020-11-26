@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/desert_bright.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#180d05",
+        "foreground": "#e1e9f0",
+        "cursor": "#e1e9f0"
+    },
+    "colors": {
+        "color0": "#180d05",
+        "color1": "#0A9FF2",
+        "color2": "#6FA4C7",
+        "color3": "#5EB6F5",
+        "color4": "#B7AFA2",
+        "color5": "#FACF99",
+        "color6": "#A4CFF6",
+        "color7": "#e1e9f0",
+        "color8": "#9da3a8",
+        "color9": "#0A9FF2",
+        "color10": "#6FA4C7",
+        "color11": "#5EB6F5",
+        "color12": "#B7AFA2",
+        "color13": "#FACF99",
+        "color14": "#A4CFF6",
+        "color15": "#e1e9f0"
+    }
+}

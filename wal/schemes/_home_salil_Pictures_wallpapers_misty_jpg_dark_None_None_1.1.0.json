@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/misty.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1f39",
+        "foreground": "#eedfbc",
+        "cursor": "#eedfbc"
+    },
+    "colors": {
+        "color0": "#0a1f39",
+        "color1": "#3C8382",
+        "color2": "#689385",
+        "color3": "#A4A186",
+        "color4": "#D2B385",
+        "color5": "#E0BC85",
+        "color6": "#B8C295",
+        "color7": "#eedfbc",
+        "color8": "#a69c83",
+        "color9": "#3C8382",
+        "color10": "#689385",
+        "color11": "#A4A186",
+        "color12": "#D2B385",
+        "color13": "#E0BC85",
+        "color14": "#B8C295",
+        "color15": "#eedfbc"
+    }
+}

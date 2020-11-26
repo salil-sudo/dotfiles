@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/sunset_cliffs.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10040a",
+        "foreground": "#c7abc8",
+        "cursor": "#c7abc8"
+    },
+    "colors": {
+        "color0": "#10040a",
+        "color1": "#A65C60",
+        "color2": "#EC8D27",
+        "color3": "#E49055",
+        "color4": "#2D2296",
+        "color5": "#433FCA",
+        "color6": "#244BF7",
+        "color7": "#c7abc8",
+        "color8": "#8b778c",
+        "color9": "#A65C60",
+        "color10": "#EC8D27",
+        "color11": "#E49055",
+        "color12": "#2D2296",
+        "color13": "#433FCA",
+        "color14": "#244BF7",
+        "color15": "#c7abc8"
+    }
+}

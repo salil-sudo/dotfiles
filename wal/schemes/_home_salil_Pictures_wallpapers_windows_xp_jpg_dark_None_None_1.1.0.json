@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/windows_xp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#18210d",
+        "foreground": "#cedbef",
+        "cursor": "#cedbef"
+    },
+    "colors": {
+        "color0": "#18210d",
+        "color1": "#306CEA",
+        "color2": "#467AEC",
+        "color3": "#738DA0",
+        "color4": "#6493EF",
+        "color5": "#8FA4A7",
+        "color6": "#91B1EF",
+        "color7": "#cedbef",
+        "color8": "#9099a7",
+        "color9": "#306CEA",
+        "color10": "#467AEC",
+        "color11": "#738DA0",
+        "color12": "#6493EF",
+        "color13": "#8FA4A7",
+        "color14": "#91B1EF",
+        "color15": "#cedbef"
+    }
+}

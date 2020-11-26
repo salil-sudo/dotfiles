@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/cafe_tiny.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090C17",
+        "foreground": "#dcd7c5",
+        "cursor": "#dcd7c5"
+    },
+    "colors": {
+        "color0": "#090C17",
+        "color1": "#698C68",
+        "color2": "#B39B67",
+        "color3": "#D5A261",
+        "color4": "#377987",
+        "color5": "#638C96",
+        "color6": "#41A4B3",
+        "color7": "#dcd7c5",
+        "color8": "#9a9689",
+        "color9": "#698C68",
+        "color10": "#B39B67",
+        "color11": "#D5A261",
+        "color12": "#377987",
+        "color13": "#638C96",
+        "color14": "#41A4B3",
+        "color15": "#dcd7c5"
+    }
+}

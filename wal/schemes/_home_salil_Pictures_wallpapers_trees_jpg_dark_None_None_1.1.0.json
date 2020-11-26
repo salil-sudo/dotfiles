@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/trees.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#34212d",
+        "foreground": "#cfdad0",
+        "cursor": "#cfdad0"
+    },
+    "colors": {
+        "color0": "#34212d",
+        "color1": "#839A8E",
+        "color2": "#8EA898",
+        "color3": "#95B5A7",
+        "color4": "#A5BAA2",
+        "color5": "#CBBA8C",
+        "color6": "#A4C1AA",
+        "color7": "#cfdad0",
+        "color8": "#909891",
+        "color9": "#839A8E",
+        "color10": "#8EA898",
+        "color11": "#95B5A7",
+        "color12": "#A5BAA2",
+        "color13": "#CBBA8C",
+        "color14": "#A4C1AA",
+        "color15": "#cfdad0"
+    }
+}

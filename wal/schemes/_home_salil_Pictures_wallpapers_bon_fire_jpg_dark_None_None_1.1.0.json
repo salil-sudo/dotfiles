@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/bon_fire.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080706",
+        "foreground": "#aabac3",
+        "cursor": "#aabac3"
+    },
+    "colors": {
+        "color0": "#080706",
+        "color1": "#AA5426",
+        "color2": "#768579",
+        "color3": "#D3A63B",
+        "color4": "#214089",
+        "color5": "#2B5798",
+        "color6": "#517097",
+        "color7": "#aabac3",
+        "color8": "#768288",
+        "color9": "#AA5426",
+        "color10": "#768579",
+        "color11": "#D3A63B",
+        "color12": "#214089",
+        "color13": "#2B5798",
+        "color14": "#517097",
+        "color15": "#aabac3"
+    }
+}

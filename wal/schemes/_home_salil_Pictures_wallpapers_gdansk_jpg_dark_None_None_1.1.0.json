@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/gdansk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2a1c19",
+        "foreground": "#dddde1",
+        "cursor": "#dddde1"
+    },
+    "colors": {
+        "color0": "#2a1c19",
+        "color1": "#D3788A",
+        "color2": "#728EBD",
+        "color3": "#A091AA",
+        "color4": "#D8A1AB",
+        "color5": "#A5A6CA",
+        "color6": "#D6B4CA",
+        "color7": "#dddde1",
+        "color8": "#9a9a9d",
+        "color9": "#D3788A",
+        "color10": "#728EBD",
+        "color11": "#A091AA",
+        "color12": "#D8A1AB",
+        "color13": "#A5A6CA",
+        "color14": "#D6B4CA",
+        "color15": "#dddde1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/zwaluw.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#090102",
+        "foreground": "#e7e7e5",
+        "cursor": "#e7e7e5"
+    },
+    "colors": {
+        "color0": "#090102",
+        "color1": "#9E0B1A",
+        "color2": "#BB3A35",
+        "color3": "#9E6450",
+        "color4": "#D89C6B",
+        "color5": "#7074A6",
+        "color6": "#CCB7AB",
+        "color7": "#e7e7e5",
+        "color8": "#a1a1a0",
+        "color9": "#9E0B1A",
+        "color10": "#BB3A35",
+        "color11": "#9E6450",
+        "color12": "#D89C6B",
+        "color13": "#7074A6",
+        "color14": "#CCB7AB",
+        "color15": "#e7e7e5"
+    }
+}

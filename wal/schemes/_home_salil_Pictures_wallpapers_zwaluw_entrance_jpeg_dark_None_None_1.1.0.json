@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/zwaluw_entrance.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#050704",
+        "foreground": "#e8e6e0",
+        "cursor": "#e8e6e0"
+    },
+    "colors": {
+        "color0": "#050704",
+        "color1": "#CCAE6E",
+        "color2": "#A9998B",
+        "color3": "#ADA396",
+        "color4": "#C5B7A3",
+        "color5": "#BBC2B9",
+        "color6": "#D1C8B4",
+        "color7": "#e8e6e0",
+        "color8": "#a2a19c",
+        "color9": "#CCAE6E",
+        "color10": "#A9998B",
+        "color11": "#ADA396",
+        "color12": "#C5B7A3",
+        "color13": "#BBC2B9",
+        "color14": "#D1C8B4",
+        "color15": "#e8e6e0"
+    }
+}

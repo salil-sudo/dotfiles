@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/b1_bomber.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080504",
+        "foreground": "#dad09c",
+        "cursor": "#dad09c"
+    },
+    "colors": {
+        "color0": "#080504",
+        "color1": "#194932",
+        "color2": "#664824",
+        "color3": "#202E50",
+        "color4": "#3A5A51",
+        "color5": "#AD661A",
+        "color6": "#F4911A",
+        "color7": "#dad09c",
+        "color8": "#98916d",
+        "color9": "#194932",
+        "color10": "#664824",
+        "color11": "#202E50",
+        "color12": "#3A5A51",
+        "color13": "#AD661A",
+        "color14": "#F4911A",
+        "color15": "#dad09c"
+    }
+}

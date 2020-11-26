@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/1490883319877.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#01041A",
+        "foreground": "#c6b1b7",
+        "cursor": "#c6b1b7"
+    },
+    "colors": {
+        "color0": "#01041A",
+        "color1": "#463B6A",
+        "color2": "#274477",
+        "color3": "#4F4C76",
+        "color4": "#04478B",
+        "color5": "#364F88",
+        "color6": "#2E528F",
+        "color7": "#c6b1b7",
+        "color8": "#8a7b80",
+        "color9": "#463B6A",
+        "color10": "#274477",
+        "color11": "#4F4C76",
+        "color12": "#04478B",
+        "color13": "#364F88",
+        "color14": "#2E528F",
+        "color15": "#c6b1b7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/overhead_lines.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#f5e0ca",
+        "cursor": "#f5e0ca"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#D57648",
+        "color2": "#CF995A",
+        "color3": "#E59F63",
+        "color4": "#D8AF8B",
+        "color5": "#F2B98E",
+        "color6": "#FBC994",
+        "color7": "#f5e0ca",
+        "color8": "#ab9c8d",
+        "color9": "#D57648",
+        "color10": "#CF995A",
+        "color11": "#E59F63",
+        "color12": "#D8AF8B",
+        "color13": "#F2B98E",
+        "color14": "#FBC994",
+        "color15": "#f5e0ca"
+    }
+}
