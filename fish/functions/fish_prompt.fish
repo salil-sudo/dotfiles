@@ -21,6 +21,7 @@ function fish_prompt
     # ╰─>$ echo there
 
     set -l retc red
+    set fish_greeting "Is snek. Pls no step !"
     test $status = 0; and set retc green
 
     set -q __fish_git_prompt_showupstream
