@@ -42,13 +42,13 @@ foreground = ${colors.foreground}
 
 line-size = 2
 
-font-0=Font Awesome:size=11;5
-font-1=Inconsolata:style=Regular:size=16;4
+font-0=Font Awesome:size=18;5
+font-1=Inconsolata:style=Regular:size=18;4
 
 
 
 
-modules-right = battery
+modules-right = alsa memory cpu battery
 modules-center = time
 
 modules-left = launcher bspwm xwindow
@@ -73,13 +73,13 @@ click-left=launcher
 ;The script above is to be found here : https://github.com/ngynLk/scripts
 
 
-;[module/xwindow]
-;type = internal/xwindow
-;label = %title:0:75:...%
-;label-empty = Empty
-;label-empty-font = 2
-;label-font = 2
-;format-margin = 4
+[module/xwindow]
+type = internal/xwindow
+label = %title:0:75:...%
+label-empty = Empty
+label-empty-font = 2
+label-font = 2
+format-margin = 4
 
 
 
@@ -126,7 +126,7 @@ format-charging = <label-charging>
 format-discharging = <ramp-capacity> <label-discharging>
 label-full =  %percentage%
 
-label-charging =  %percentage%
+label-charging =  %percentage% %
 
 
 ramp-capacity-0 = 
@@ -148,14 +148,34 @@ ramp-capacity-foreground = ${colors.foreground}
 
 
 [module/alsa]
+
 type = internal/alsa
 
 master-soundcard = hw:0
 speaker-soundcard = hw:0
 headphone-soundcard = hw:0
-format-volume = <label-volume>
-label-volume = %percentage%
-label-volume-foreground = ${colors.foreground}
+format-volume = <ramp-volume> <label-volume>
+label-volume = %percentage%%
+
+format-muted-prefix =
+label-muted = "Muted"
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+
+[module/cpu]
+type = internal/cpu
+interval =0.5
+format = <label>
+label = CPU %percentage% %
+
+[module/memory]
+type = internal/memory
+interval = 3
+format = <label>
+label = Memory %percentage_used% %
+
 
 [settings]
 screenchange-reload = true
