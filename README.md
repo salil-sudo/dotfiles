@@ -1,6 +1,6 @@
 # My Ubuntu dotfiles
  
- I have migrated to ArcoLinux with bspwm. I would no longer update this repository. Here are my new [dotfiles](https://github.com/salil-sudo/arcorice)
+ I have migrated to Arch/Arco Linux with bspwm. I would no longer update this repository. My new dotfiles: [Arch](https://github.com/salil-sudo/archricer) [Arco](https://github.com/salil-sudo/arcoricer)
  
 <p align="middle">
 
